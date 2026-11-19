@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Connor
 
-<!--
-**cnnr-s/cnnr-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Recent Economics graduate from the University of Windsor. I'm working toward a career in economic analysis or data science. Feel free to explore some of my projects!
 
-Here are some ideas to get you started:
+## About me
+- 🎓 B.Sc. Economics, minor in Business Administration — University of Windsor
+- 💼 Data Analyst at an accounting and advisory firm in Ontario, focused on systems automation
+- 🤖 Build AI agents and automated workflows with Copilot Studio and Power Automate for teams across the firm
+- 📊 Work with Python, SQL, R, and Power BI — mostly self-taught through personal projects
+- 📍 Windsor, ON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working toward
+- 📈 Entry-level roles in economic analysis, research, or probabilistic forecasting
+- 🧮 Building my Python and R skills for applied economic research / data science
+- 🗺️ Open to relocating
+- 🌱 Long term: a career doing work that helps people and has a wide reach
+
+## Outside of work
+- Big fan of football (soccer)
+
+
+---
+📫 Reach me at https://www.linkedin.com/in/connorsymons/
